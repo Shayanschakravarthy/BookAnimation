@@ -4,11 +4,11 @@ Welcome to the Animated Book repository! This repository contains a visually app
 ## Demo
 
 Check out the live demo on 
-[CodePen](https://codepen.io/Hunterdii/pen/zYbNJgp).
+[CodePen](https://codepen.io/Shayanschakravarthy/pen/zYbNJgp).
 
 ## Preview
 
-![Animated Book](https://github.com/Hunterdii/BookAnimation/assets/124852522/d1b6f10a-d376-4137-a367-c851bcfed353)
+![Animated Book](https://github.com/Shayanschakravarthy/BookAnimation/assets/124852522/d1b6f10a-d376-4137-a367-c851bcfed353)
 
 
 
@@ -17,4 +17,4 @@ Check out the live demo on
 The animated book is created using a combination of Markdown and HTML. Each page of the book is represented by a section with a unique set of images.
 bash
  ```
-https://hunterdii.github.io/BookAnimation/
+https://Shayanschakravarthy.github.io/BookAnimation/
